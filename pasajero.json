@@ -1,0 +1,25 @@
+{
+    "nombre": "Laura",
+    "apellido": "Caro",
+    "edad": 24,
+    "precioAsiento": 200.50,
+    "pagado": true,
+    "asiento": {
+        "numero": 13,
+        "letra": "F",
+        "cargador": false
+    },
+    "historial": [
+        {
+            "origen": "Nueva York",
+            "destino": "Chicago",
+            "fecha": "10/11/22"
+        },
+        {
+            "origen": "Bariloche",
+            "destino": "Cancun",
+            "fecha": "20/10/23"
+        }
+    ]
+
+}
