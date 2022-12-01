@@ -1,12 +1,10 @@
 .row {
 background: rgb(20, 20, 20);
-border: 1px solid rgb(24, 26, 27);
-box-shadow: inset -3px 3px 6px 0px rgba(88,185,214,1);
 color: white;
 font-family: 'Comfortaa', cursive;
-padding: 15px;
 }
 h1{
   margin-left: 70px;
 }
+
 

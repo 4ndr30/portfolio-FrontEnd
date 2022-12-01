@@ -1,4 +1,22 @@
+
 #logoAr {
   width: 100px;
 
+}
+#logos {
+  width: 30px;
+  }
+
+.conteiner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+a {
+ padding-right: 5px;
+}
+
+button {
+  padding: 10px;
 }
